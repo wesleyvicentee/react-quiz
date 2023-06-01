@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Raleway', sans-serif;
+    color: #FFF;
+    text-decoration: none;
+}
+
+body,
+html {
+    height: 100%;
+    min-height: 100vh;
+    background-color: #1C1C1C;
+}
+
+a,
+button {
+    transition: .4s;
+}
+
+img {
+    max-width: 100%;
+}

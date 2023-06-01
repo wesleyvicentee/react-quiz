@@ -1,0 +1,18 @@
+.btn {
+    display: inline-block;
+    padding: 12px 24px;
+    background: linear-gradient(
+        90deg,
+        rgba(132, 53, 222, 1) 0%,
+        rgba(184, 84, 232, 1) 100%,
+    );
+    border-radius: 48px;
+    border: none;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+
+    &:hover {
+        transform: translateY(-3px);
+    }
+}

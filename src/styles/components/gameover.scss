@@ -1,0 +1,14 @@
+.gameover {
+    max-width: 500px;
+    text-align: center;
+
+    h2, p { margin-bottom: 16px }
+
+    p { color: #8435D3 }
+
+    img {
+        display: block;
+        max-height: 200px;
+        margin: 32px 0;
+    }
+}
